@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------
 
 <p align="center">
- <img src="https://github.com/Rebellion-OS/Rebellion_Xtras../Maintainers/blob/ten/Rebellion.png" > 
+ <img src="https://github.com/Rebellion-OS/Rebellion_Xtras../blob/ten/Maintainers/Rebellion.png" > 
 </p>
 
 -----------------------------------------------------------------------------
