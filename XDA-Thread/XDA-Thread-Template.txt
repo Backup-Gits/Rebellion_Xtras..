@@ -1,0 +1,152 @@
+[CENTER]
+[IMG]https://github.com/Rebellion-Hub/Rebellion_Xtras../blob/ten/XDA-Thread/Rebel-PNG/RebelHeader.png?raw=true[/IMG]
+
+[SIZE="5"][B][FONT="Trebuchet MS"]About US:[/B][/SIZE]
+Rebellion-OS is an AOSP Based Custom ROM with Customisations ,Pix3l Stuffs & Goodies😉[/FONT]
+
+[SIZE="4"][color="#e34036"][B]CLEAN FLASH :[/B][/SIZE][/COLOR]
+Reboot to recovery 
+Take Backup (Not Necessary)
+Wipe System, Data, Cache , Dalvik
+Flash the latest build
+Reboot[/SIZE]
+
+[SIZE="4"][color="#e34036"][B]DIRTY FLASH :[/B][/SIZE][/COLOR]
+[SIZE="4"]Download the latest build [/SIZE]
+Reboot to recovery
+Wipe Cache
+Reboot[/SIZE]
+[SIZE="4"]Note : GApps are Prebuilt! No need to flash again!![/SIZE]
+
+[IMG]https://github.com/Rebellion-Hub/Rebellion_Xtras../blob/ten/XDA-Thread/Rebel-PNG/RebelFeatures.png?raw=true[/IMG]
+[HIDE][CODE][LIST]
+[U][B]STATUSBAR:[/B][/U]
+[*]Statusbar icons.
+[*]Traffic indicators.
+[*]4G Icon Instead of LTE.
+[*]VoLTE icon toggle.
+[*]Clock Customisations.
+[*]Battery Customisations.
+[*]Battery Bar customisations.
+
+[U][B]THEMES & UI:[/B][/U]
+[*]Accents.
+[*]Fonts.
+[*]Dashboard conditions.
+[*]Other UI Stuffs.
+
+[U][B]AMBIENT DISPLAY:[/B][U]
+[*]Always ON display.
+[*]Always ON on charging.
+[*]Lift to check.
+[*]Handwave.
+[*]Pocket.
+[*]Ambient display brightness.
+
+[U][B]Navigation Bar:[/B][/U]
+[*]Navbar invert layout.
+
+[U][B]QUICK SETTINGS:[/B][/U]
+[*]QS brightness slider position.
+[*]QS Layout settings.
+[*]QS System info.
+
+[U][B]LOCKSCREEN:[/B][/U]
+[*]Charging info.
+[*]Fingerprint Authentication Vibration.
+[*]Unlock keystore with fingerprint after reboot.
+[*]Lockscreen Weather.
+[*]Lockscreen visualizer.
+[*]Lockscreen media art and Blur customisation.
+
+[U][B]BUTTONS:[/B][/U]
+[*]H/W keys customisation.
+[*]H/W buttons backlight customisations.
+[*]Volume key cursor control.
+[*]Volume rocker  wake.
+
+[U][B]POWER MENU:[/B[/U]
+[*]Power menu customisations.
+
+[U][B]NOTIFICATIONS:[/B][/U]
+[*]Headsup Customisations.
+[*]Incall Vibrations.
+[*]Battery light customization.
+[*]Notifications light customization.
+
+[U][B]GESTURES:[/B][/U]
+[*]3 Fingers screenshot.
+
+[U][B]MISC:[/B][/U]
+[*]Wake on plug.
+
+[U][B]ANIMATIONS[/B][/U]
+[*]Scroll Animations.
+[*]Others.
+
+[U][B]BATTERY[/B][/U]
+[*]Smart pixles.
+[*]Agressive Battery.
+
+Lots more to come soon!..Stay Tuned!!![/LIST][/CODE][/HIDE]
+
+[IMG]https://github.com/Rebellion-Hub/Rebellion_Xtras../blob/ten/XDA-Thread/Rebel-PNG/RebelDownloads.png?raw=true[/IMG]
+[SIZE="3"]Download ROM[B]:[URL="https://sourceforge.net/projects/rebellion-os/files/<device name>"]Rebellion-OS[/URL][/SIZE][/B]
+
+[IMG]https://github.com/Rebellion-Hub/Rebellion_Xtras../blob/ten/XDA-Thread/Rebel-PNG/RebelCredits.png?raw=true[/IMG]
+[SIZE="4"][B]Rebellion-OS Core Team
+[FONT="Comic Sans MS"]AOSP[/FONT]
+[FONT="Comic Sans MS"]Lineage OS[/FONT]
+[FONT="Comic Sans MS"]PixelExperience[/FONT]
+[FONT="Comic Sans MS"]AospExtended[/FONT]
+[FONT="Comic Sans MS"]Syberia OS[/FONT]
+[FONT="Comic Sans MS"]Nitrogen OS[/FONT] 
+[FONT="Comic Sans MS"]Pixys OS[/FONT][/B][/SIZE]
+
+[IMG] https://github.com/Rebellion-Hub/Rebellion_Xtras../blob/ten/XDA-Thread/Rebel-PNG/RebelTeam.png?raw=true[/IMG]
+[SIZE="4"][B][FONT="Comic Sans MS"]Advaith Bhat[/FONT][/B][/SIZE]
+[B][FONT="Comic Sans MS"]Himanshu Namdev[/FONT][/B]
+[B][FONT="Comic Sans MS"]Aryanata Andi[/FONT][/B]
+[B][FONT="Comic Sans MS"]Spaceslayer  [/FONT][/B]
+
+[U][SIZE=6][B][COLOR=#2ba851] [I]Important Links[/I][/COLOR][/B][/SIZE][/U]
+
+[IMG]https://github.com/Rebellion-Hub/Rebellion_Xtras../blob/ten/XDA-Thread/Rebel-PNG/RebelSource.png?raw=true[/IMG]
+
+[SIZE="4"][URL="https://github.com/Rebellion-Hub"]
+[IMG]https://github.com/Rebellion-Hub/Rebellion_Xtras../blob/ten/XDA-Thread/Rebel-PNG/RebelGit.png[/IMG]
+[SIZE="5"][B]Rebellion-OS source[/URL][/B][/SIZE]
+[B][SIZE="3"][B][SIZE="4"][URL="https://github.com/Rebellion-Hub-Devices"]Rebellion-OS Device Sources[/URL][/SIZE][/B][/SIZE][/B]
+[IMG]https://raw.githubusercontent.com/Rebellion-Hub/Rebellion_Xtras../ten/XDA-Thread/Rebel-PNG/RebelTelegram.png[/IMG]
+[B][URL="http://t.me/RebellionHub"]Telegram Group[/URL][/B]
+[B][URL="http://t.me/rebellionAnnouncements"]Telegram Channel[/URL][/B][/SIZE]
+
+[U][B][SIZE="4"][FONT="Arial Black"][COLOR="#e34036"]REPORTING BUGS[/COLOR][/FONT]![/SIZE][/B][/U]
+As soon as the problem occurs, take a logcat! 
+[URL="http://telegra.ph/Logcats-are-important-03-01"]for more READ THIS[/URL][/CENTER]
+
+[B][U][SIZE="4"][NOPARSE]XDA:DevDB Information[/NOPARSE][/SIZE][/U][/B]
+[SIZE="3"][B]Rebellion-OS, ROM for the *Your Device*[/B][/SIZE]
+[B]Rebellion-OS Version Name:[/B] StarWars_
+[B]Device:[/B] *Your Device
+[B]Maintainer:[/B] *Your Name*
+[B]Build Type:[/B] *Rebelized or UnRebelized*
+
+[B][U]Contributors[/U][/B]
+*Maintainer Name*
+[B]Source Code:[/B] [URL="https://github.com/Rebellion-Hub"]Rebellion-OS[/URL]
+[B]Kernel Source:[/B] [URL="*source link of kernel used*"]*Name of kernel*[/URL] 
+
+[B]ROM OS Version:[/B] 10.0.x
+[B]ROM Kernel:[/B] Linux x.x
+[B]ROM Firmware Required:[/B] Must be on Latest Firmware
+[B]Based On:[/B] AOSP
+
+[B][U]Version Information[/U][/B]
+[B]Status:[/B] Stable
+[B]Current Stable Version:[/B] StarWars_
+[B]SELinux Status:[/B]
+[B]Stable Release Date:[/B] 20xx-xx-xx
+
+[B]Created[/B] 20xx-xx-xx
+[B]Last Updated[/B] 20xx-xx-xx
